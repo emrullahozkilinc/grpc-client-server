@@ -1,2 +1,6 @@
-/Users/fmss/Desktop/spring-projects/grpc-client-demo/src/main/java/com/emr/grpcclientdemo/GrpcClientDemoApplication.java
-/Users/fmss/Desktop/spring-projects/grpc-client-demo/src/main/java/com/emr/grpcclientdemo/grpc_service/TimeService.java
+C:\Users\Emrullah\Desktop\demos\grpc-client-server\grpc-client-demo\target\generated-sources\protobuf\grpc-java\com\emr\grpcclientdemo\grpc\TimeServiceGrpc.java
+C:\Users\Emrullah\Desktop\demos\grpc-client-server\grpc-client-demo\src\main\java\com\emr\grpcclientdemo\grpc_service\TimeServiceGrpcCaller.java
+C:\Users\Emrullah\Desktop\demos\grpc-client-server\grpc-client-demo\src\main\java\com\emr\grpcclientdemo\grpc_service\TimeServiceImpl.java
+C:\Users\Emrullah\Desktop\demos\grpc-client-server\grpc-client-demo\target\generated-sources\protobuf\java\com\emr\grpcclientdemo\grpc\TimeServiceGrpcManager.java
+C:\Users\Emrullah\Desktop\demos\grpc-client-server\grpc-client-demo\src\main\java\com\emr\grpcclientdemo\GrpcClientDemoApplication.java
+C:\Users\Emrullah\Desktop\demos\grpc-client-server\grpc-client-demo\src\main\java\com\emr\grpcclientdemo\grpc_service\TimeService.java
